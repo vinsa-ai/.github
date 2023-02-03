@@ -1,3 +1,3 @@
-# Vinsa Github Readme
+Welcome to the Vinsa GitHub page.
 
-* [Repositories](https://github.com/orgs/vinsa-ai/repositories)
+[Repositories can be found here](https://github.com/orgs/vinsa-ai/repositories)
